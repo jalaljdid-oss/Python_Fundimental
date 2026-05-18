@@ -1,0 +1,2 @@
+hello you are testing read a file and
+print the content!
